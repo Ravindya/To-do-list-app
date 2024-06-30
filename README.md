@@ -38,7 +38,7 @@ This is a simple and user-friendly to-do list application built with HTML, CSS, 
 ### To run the game locally, follow these steps:
 
 **Clone the repository:**
-* git clone [link]
+* git clone https://github.com/Ravindya/To-do-list-app.git
 
 ### Navigate to the project directory:
 
